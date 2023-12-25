@@ -1,2 +1,2 @@
 # zfk-s
-this is my first git
+This is a piece of code used to detect ellipses on a common plane
