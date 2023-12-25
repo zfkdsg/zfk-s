@@ -1,0 +1,38 @@
+﻿  FileName.cpp
+F:\visual studio\my_project\Project16\Project16\FileName.cpp(118,50): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\visual studio\my_project\Project16\Project16\FileName.cpp(118,41): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\visual studio\my_project\Project16\Project16\FileName.cpp(118,79): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\visual studio\my_project\Project16\Project16\FileName.cpp(118,70): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  Project16.vcxproj -> F:\visual studio\my_project\Project16\x64\Debug\Project16.exe
